@@ -1,4 +1,4 @@
 learnit
 =======
 
-initial repo to learn
+initial repo to learn something
